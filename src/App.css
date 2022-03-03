@@ -31,6 +31,7 @@
     display: flex;
     align-items: center;
     height: 580px;
+    font-size: 2em;
     color: white;
 }
 
@@ -46,7 +47,7 @@ button {
     cursor: pointer;
     text-transform: lowercase;
     height: 100px;
-    width: 90px;
+    width: 200px;
     padding: 3px;
     opacity: 1;
     background-color: #cecece;
@@ -55,9 +56,9 @@ button {
     
   .button span {
     color: #164ca7;
-    font-size: 12px;
+    font-size: 20px;
     font-weight: 500;
-    letter-spacing: 2px;
+    letter-spacing: 5px;
   }
     
   .button:hover {
